@@ -1,5 +1,6 @@
 # Excel_Project-Sales_and_Finance_Analytics_Project_for_AtliQ_Hardwares
 📊 This project analyzes **1M+ sales records** of AtliQ Hardware, a global computer peripherals manufacturer, to deliver actionable insights on sales, finance, and profitability. Using Excel (Power Query, Power Pivot, and DAX), raw data was transformed into interactive reports and dashboards.
+
 Presentation - https://www.linkedin.com/posts/arindam-das-9719ba328_salesandfinanceanalyticsprojectforatliqhardwares-activity-7360987120880037888-6G2k?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFK67-UBvAHcWbtIHdVOKSuddDxFCZteRoE
 ## 📌 Business Overview
 AtliQ Hardware manufactures **mice, keyboards, hard drives, printers, and PCs**. Its products are distributed through:
